@@ -83,18 +83,91 @@ Los resultados confirmaron diferencias significativas en el consumo de música e
 
 ---
 
-## Proyecto 3: Nombre del Proyecto
+## Proyecto 3: Análisis de Pedidos en Instacart - "¡Llena ese carrito!"
 
-*(Información pendiente de agregar...)*
+### Contexto
+Instacart es una plataforma de entregas de comestibles que permite a los clientes registrar un pedido y recibirlo en su domicilio. El objetivo de este proyecto es analizar los datos de pedidos para identificar patrones de compra y optimizar la experiencia del usuario en la plataforma. 
+
+El conjunto de datos utilizado ha sido modificado para reducir su tamaño y hacer que los cálculos sean más rápidos. Además, se introdujeron valores ausentes y duplicados para mejorar la experiencia de limpieza y preparación de datos.
+
+### Herramientas y Tecnologías Utilizadas
+Para el análisis de datos se emplearon las siguientes herramientas:
+- **Pandas** para manipulación y limpieza de datos.
+- **NumPy** para cálculos numéricos.
+- **Matplotlib / Seaborn** para visualización de patrones y tendencias en los datos.
+- **Métodos estadísticos** para análisis exploratorio de datos y optimización de procesos.
+
+### Desarrollo y Análisis de Datos
+El proyecto se llevó a cabo en varias etapas principales:
+
+1. **Preprocesamiento de Datos**
+   - Verificación y corrección de tipos de datos en columnas clave.
+   - Identificación y manejo de valores ausentes en los pedidos y productos.
+   - Eliminación de valores duplicados para garantizar la integridad de los datos.
+   - Conversión de datos categóricos y numéricos a formatos adecuados.
+
+2. **Análisis de Patrones de Compra**
+   - Evaluación de las horas y días con mayor actividad de compras.
+   - Identificación de productos más populares y su frecuencia de compra.
+   - Análisis de la repetición de compras y hábitos de los clientes.
+
+3. **Validación de Datos**
+   - Revisión de la calidad de los datos y verificación de posibles errores de entrada.
+   - Aplicación de imputaciones y correcciones en las variables afectadas.
+
+### Conclusiones
+Los resultados confirmaron importantes patrones de comportamiento en los pedidos de Instacart:
+- **Horarios de compra:** La actividad de pedidos se concentra en ciertas horas del día y días de la semana.
+- **Productos populares:** Algunos productos tienen una alta tasa de recompra, lo que sugiere patrones de consumo regulares.
+- **Estrategia de recomendaciones:** El análisis de repeticiones de compra permite mejorar las recomendaciones y personalizar la experiencia del usuario.
+
+Estos hallazgos pueden ser utilizados por Instacart para optimizar la distribución de productos y mejorar la personalización de las ofertas para sus clientes.
 
 ---
 
-## Herramientas y Tecnologías
+## Proyecto 4: Análisis de Tarifas de Telecomunicaciones - "¿Cuál es la mejor tarifa?"
 
-- **Frontend:** HTML, CSS, JavaScript, frameworks modernos (React, Angular, etc.)
-- **Backend:** Node.js, Python (Django, Flask), entre otros.
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, etc.
-- **Otras herramientas:** Git, GitHub, Docker, herramientas de testing, etc.
+### Contexto
+Trabajas como analista de datos para la empresa de telecomunicaciones **Megaline**, que ofrece dos tarifas de prepago: **Surf** y **Ultimate**. El objetivo del proyecto es determinar cuál de estas tarifas genera más ingresos para ayudar al equipo comercial a optimizar el presupuesto de publicidad.
+
+Para el análisis, se dispone de los datos de 500 clientes, incluyendo información sobre su consumo de llamadas, mensajes de texto y uso de Internet a lo largo de 2018.
+
+### Herramientas y Tecnologías Utilizadas
+Para el análisis de datos se emplearon las siguientes herramientas:
+- **Pandas** para manipulación y limpieza de datos.
+- **NumPy** para cálculos numéricos.
+- **Matplotlib / Seaborn** para visualización de tendencias en los datos.
+- **Pruebas estadísticas** (prueba t de Student) para validar diferencias en ingresos entre los planes.
+
+### Desarrollo y Análisis de Datos
+El proyecto se llevó a cabo en varias etapas principales:
+
+1. **Limpieza y Preprocesamiento de Datos**
+   - Conversión de fechas a formato `datetime` para facilitar el análisis temporal.
+   - Manejo de valores ausentes y estandarización de tipos de datos.
+   - Redondeo de la duración de las llamadas para alinearse con la política de facturación de la empresa.
+   - Consolidación de datos de consumo (llamadas, mensajes e Internet) en un solo conjunto de datos por usuario.
+
+2. **Análisis del Comportamiento del Cliente**
+   - Exploración del uso de llamadas, mensajes y datos por tipo de tarifa.
+   - Identificación de patrones de consumo y diferencias entre usuarios de los planes **Surf** y **Ultimate**.
+
+3. **Análisis de Ingresos**
+   - Cálculo del ingreso mensual por usuario.
+   - Comparación de ingresos entre planes y regiones geográficas.
+   - Evaluación de la rentabilidad de cada plan.
+
+4. **Pruebas Estadísticas**
+   - Aplicación de pruebas estadísticas (prueba t de Student) para determinar si las diferencias en ingresos entre los dos planes son estadísticamente significativas.
+   - Validación de hipótesis sobre patrones de uso y rentabilidad de los planes.
+
+### Conclusiones
+Los resultados confirmaron diferencias significativas en el consumo de servicios entre los usuarios de los planes **Surf** y **Ultimate**:
+- **El plan Ultimate genera mayores ingresos promedio que el plan Surf** debido a un mayor consumo de datos y llamadas por parte de sus usuarios.
+- **El uso de mensajes de texto ha disminuido**, lo que sugiere que los clientes prefieren comunicarse a través de datos móviles.
+- **Los ingresos varían por región**, lo que puede ayudar a definir estrategias de marketing más focalizadas.
+
+Estos hallazgos pueden ayudar a la empresa **Megaline** a tomar decisiones estratégicas sobre su estructura de precios y campañas de publicidad.
 
 ---
 
