@@ -1,10 +1,10 @@
 # Data Science Bootcamp Projects
 
-Bienvenido a la documentación de los proyectos desarrollados durante el Bootcamp de Ciencia de Datos en **TripleTen**. A lo largo del Bootcamp, se aplicaron técnicas de análisis de datos, limpieza, transformación y modelado utilizando herramientas de Data Science y Software Development.  
+Welcome to the documentation of the projects developed during the Data Science Bootcamp at TripleTen. Throughout the Bootcamp, data analysis, cleansing, transformation and modeling techniques were applied using tools of Data Science and Software Development.
 
-Cada proyecto cuenta con una descripción detallada del contexto, las herramientas utilizadas, el proceso de desarrollo, los análisis de resultados y las conclusiones.  
+Each project has a detailed description of the context, tools used, development process, results analysis and conclusions.
 
-Para quienes deseen ejecutar el código y validar los resultados obtenidos, el repositorio con los datos se encuentra disponible en el siguiente enlace:  
+For those who wish to run the code and validate the results obtained, the repository with the data is available at the following link: 
 
 📂 **Repositorio en Google Drive:** [Portfolio](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
 
