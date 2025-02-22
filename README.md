@@ -1,10 +1,10 @@
 # Documentación de Proyectos del Bootcamp
 
-Bienvenido a la documentación de los proyectos desarrollados durante el Bootcamp. A lo largo de estos proyectos, se aplicaron técnicas de análisis de datos, limpieza, transformación y modelado utilizando herramientas de ciencia de datos y desarrollo de software.  
+Bienvenido a la documentación de los proyectos desarrollados durante el Bootcamp de Ciencia de Datos en **TripleTen**. A lo largo del Bootcamp, se aplicaron técnicas de análisis de datos, limpieza, transformación y modelado utilizando herramientas de Data Science y Software Development.  
 
-Cada proyecto cuenta con una descripción detallada del contexto, las herramientas utilizadas, el proceso de desarrollo, los análisis de resultados (o la explicación del portal web en su caso) y las conclusiones.  
+Cada proyecto cuenta con una descripción detallada del contexto, las herramientas utilizadas, el proceso de desarrollo, los análisis de resultados y las conclusiones.  
 
-Para quienes deseen ejecutar el código y validar los resultados obtenidos, el repositorio con los archivos se encuentra disponible en el siguiente enlace:  
+Para quienes deseen ejecutar el código y validar los resultados obtenidos, el repositorio con los datos se encuentra disponible en el siguiente enlace:  
 
 📂 **Repositorio en Google Drive:** [Acceder a los archivos](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
 
