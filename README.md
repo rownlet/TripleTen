@@ -1,4 +1,4 @@
-# Documentación de Proyectos del Bootcamp
+# Data Science Bootcamp Projects
 
 Bienvenido a la documentación de los proyectos desarrollados durante el Bootcamp de Ciencia de Datos en **TripleTen**. A lo largo del Bootcamp, se aplicaron técnicas de análisis de datos, limpieza, transformación y modelado utilizando herramientas de Data Science y Software Development.  
 
