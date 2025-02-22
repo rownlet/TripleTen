@@ -6,7 +6,7 @@ Each project has a detailed description of the context, tools used, development 
 
 For those who wish to run the code and validate the results obtained, the repository with the data is available at the following link: 
 
-📂 **Repositorio en Google Drive:** [Portfolio](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
+📂 **Repository in Google Drive:** [Portfolio](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
 
 ---
 
