@@ -6,7 +6,7 @@ Cada proyecto cuenta con una descripción detallada del contexto, las herramient
 
 Para quienes deseen ejecutar el código y validar los resultados obtenidos, el repositorio con los datos se encuentra disponible en el siguiente enlace:  
 
-📂 **Repositorio en Google Drive:** [Acceder a los archivos](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
+📂 **Repositorio en Google Drive:** [Portfolio](https://drive.google.com/drive/folders/1VWdZzKb58ncf8SD0QUKrhCRngkU0ApIK?usp=drive_link)  
 
 ---
 
