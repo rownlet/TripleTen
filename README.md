@@ -33,6 +33,8 @@ For those who wish to run the code and validate the results obtained, the reposi
 
 ## Project 1: Data Evaluation and Preparation for Store 1
 
+---
+
 ### Context
 An e-commerce company, **Store 1**, recently started collecting data on its customers. Its ultimate goal is to better understand user behavior and make data-driven decisions to enhance their online experience. As part of the analytics team, the first task is to assess the quality of a sample dataset and prepare it for future analysis.
 
